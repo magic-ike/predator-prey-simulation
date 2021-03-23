@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ikeofoegbu/Dropbox/nyu tandon/bridge/coursework/hw/hw9/hw9/iko206_hw9.cpp
+iostream
+-
+vector
+-
+cstdlib
+-
+ctime
+-
+
